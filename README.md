@@ -1,0 +1,2 @@
+# utology-internship
+インターンシップ用
