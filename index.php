@@ -18,7 +18,7 @@
     <h1>トップ</h1>
 </header>
 <div>
-        <?php echo $message; ?>
+        <?php echo "{$_SESSION['name']}さんようこそ"; ?>
 </div>
 </body>
 </html>
